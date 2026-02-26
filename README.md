@@ -41,6 +41,11 @@ This key is the only one that works in this build.
 
 ---
 
+
+___
+
+https://www.virustotal.com/gui/file/bc907dad55c5633fe37206ff2cfc90e6f7a37d41d4f082ec0904b9e434923f2e/details
+___
 ## 🛠️ How to Use
 
 ### 1. Quick Run

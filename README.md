@@ -37,7 +37,7 @@ Built with love using OpenClaw + manual reverse engineering in February 2026.
 **`JAY@1221`**
 
 This key is the only one that works in this build.  
-(Original magic key was `Kassem@Xoxo@123%N`)
+(Original magic key was `Kassem@Xoxo123xxN`)
 
 ---
 
